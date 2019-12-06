@@ -1,0 +1,3 @@
+D:\Me\Projects\AnyPOSAPI\Product.WebAPI\obj\Debug\netcoreapp2.0\Product.WebAPI.csproj.CoreCompileInputs.cache
+D:\Me\Projects\AnyPOSAPI\Product.WebAPI\obj\Debug\netcoreapp2.0\Product.WebAPI.AssemblyInfoInputs.cache
+D:\Me\Projects\AnyPOSAPI\Product.WebAPI\obj\Debug\netcoreapp2.0\Product.WebAPI.AssemblyInfo.cs

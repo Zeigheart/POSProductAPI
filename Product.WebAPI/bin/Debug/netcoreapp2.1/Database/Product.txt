@@ -1,0 +1,5 @@
+﻿categoryId|productId|name|price|units|pictureUrl|lastStockDate
+51|DWP0001|Dress Woman (Pink - S,L,M)|499|100|https://ipfs.io/ipfs/QmTsyHLEEf1uukvpMPvn1LMoQTrQ57eiyixqg8t1akdcZE|2019-12-01T08:35:07|2019-12-01T08:35:07|null
+51|DFW0001|Shirt - Life Style (White S,M,L,XL)|359|100|https://ipfs.io/ipfs/QmUPoEJSFNBjUfhAHeEp3wAwfgHJzpsRpPPxx4H3pcJzat|2019-12-01T08:35:07
+51|DFG0001|Teen Shirt (Gray S,M,L)|459|100|https://ipfs.io/ipfs/Qmc9SCox1DqqdnUWG4v26rYSyCUutvYKr6PQo34oCbFjda|2019-12-01T08:35:07
+51|DWY1001|Running Suit Woman (Yellow S,M)|1299|100|https://ipfs.io/ipfs/QmdVbdGKSGu7bARW3PCPCaNv8ex2KTrCAWXtQyAYA2onx2|2019-12-01T08:35:07

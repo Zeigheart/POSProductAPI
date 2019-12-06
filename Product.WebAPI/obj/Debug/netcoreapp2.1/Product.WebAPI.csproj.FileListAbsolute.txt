@@ -1,0 +1,14 @@
+D:\Me\Projects\AnyPOSAPI\Product.WebAPI\obj\Debug\netcoreapp2.1\Product.WebAPI.csprojAssemblyReference.cache
+D:\Me\Projects\AnyPOSAPI\Product.WebAPI\obj\Debug\netcoreapp2.1\Product.WebAPI.csproj.CoreCompileInputs.cache
+D:\Me\Projects\AnyPOSAPI\Product.WebAPI\obj\Debug\netcoreapp2.1\Product.WebAPI.AssemblyInfoInputs.cache
+D:\Me\Projects\AnyPOSAPI\Product.WebAPI\obj\Debug\netcoreapp2.1\Product.WebAPI.AssemblyInfo.cs
+D:\Me\Projects\AnyPOSAPI\Product.WebAPI\bin\Debug\netcoreapp2.1\Product.WebAPI.deps.json
+D:\Me\Projects\AnyPOSAPI\Product.WebAPI\bin\Debug\netcoreapp2.1\Product.WebAPI.runtimeconfig.json
+D:\Me\Projects\AnyPOSAPI\Product.WebAPI\bin\Debug\netcoreapp2.1\Product.WebAPI.runtimeconfig.dev.json
+D:\Me\Projects\AnyPOSAPI\Product.WebAPI\bin\Debug\netcoreapp2.1\Product.WebAPI.dll
+D:\Me\Projects\AnyPOSAPI\Product.WebAPI\bin\Debug\netcoreapp2.1\Database\Category.txt
+D:\Me\Projects\AnyPOSAPI\Product.WebAPI\bin\Debug\netcoreapp2.1\Database\Product.txt
+D:\Me\Projects\AnyPOSAPI\Product.WebAPI\bin\Debug\netcoreapp2.1\Product.WebAPI.pdb
+D:\Me\Projects\AnyPOSAPI\Product.WebAPI\obj\Debug\netcoreapp2.1\Product.WebAPI.dll
+D:\Me\Projects\AnyPOSAPI\Product.WebAPI\obj\Debug\netcoreapp2.1\Product.WebAPI.pdb
+D:\Me\Projects\AnyPOSAPI\Product.WebAPI\bin\Debug\netcoreapp2.1\Database\Product2.txt

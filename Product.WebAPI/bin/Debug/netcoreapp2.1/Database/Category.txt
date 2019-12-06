@@ -1,0 +1,7 @@
+﻿categoryId|name
+1|Water
+2|Alcohol
+3|Sparkling
+4|Snack
+5|Bread
+51|Dress
